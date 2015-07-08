@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ForoCarros
 // @namespace    https://github.com/SerCrAsH/tpm
-// @version      0.0.1
+// @version      0.0.2
 // @description  Mejoras de forocoches ( Chrome versión web )
 // @author       SerCrAsH
 // @match        *://www.forocoches.com/foro/forumdisplay*
@@ -14,6 +14,8 @@
 // @grant        GM_getResourceText
 // @noframes
 // @run-at       document-start
+// @downloadURL  https://raw.githubusercontent.com/SerCrAsH/tpm/master/tpm-scripts/ForoCarros.user.js
+// @updateURL    https://raw.githubusercontent.com/SerCrAsH/tpm/master/tpm-scripts/ForoCarros.user.js
 // ==/UserScript==
 
 /** Initial css reference **/
