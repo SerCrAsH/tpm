@@ -15,7 +15,6 @@
 // @noframes
 // @run-at       document-start
 // @downloadURL  https://raw.githubusercontent.com/SerCrAsH/tpm/master/tpm-scripts/ForoCarros.user.js
-// @updateURL    https://raw.githubusercontent.com/SerCrAsH/tpm/master/tpm-scripts/ForoCarros.user.js
 // ==/UserScript==
 
 /** Initial css reference **/
