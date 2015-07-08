@@ -1,6 +1,13 @@
 # TamperMonkey Script para Forocoches
-TamperMonkey Script con diversas mejoras para [Forocoches](http://www.forocoches.com/).
+(Google Chrome >v.29) TamperMonkey Script con diversas mejoras para [Forocoches](http://www.forocoches.com/).
 
+***
+## Instalación :
+1. Tan solo agregad vuestro navegador Google Chrome la extensión [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=es).
+2. El script se instala desde esta dirección una vez habilitada la extensión anterior:
+  [Tampermonkey Script - Forocarros](https://raw.githubusercontent.com/SerCrAsH/tpm/master/tpm-scripts/ForoCarros.user.js)
+
+*Notas : Simpre se puede deshabilitar el script pulsando sobre la extensión Tampermonkey y pulsando sobre el script (deshabilitado en color rojo)*
 ***
 ## Versión : 
 
