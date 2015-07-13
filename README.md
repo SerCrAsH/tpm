@@ -9,6 +9,11 @@
 
 *Notas : Simpre se puede deshabilitar el script pulsando sobre la extensión Tampermonkey y pulsando sobre el script (deshabilitado en color rojo)*
 ***
+
+## Previa versión actual (0.0.2)
+
+![Previa versión actual](http://i.imgur.com/PCz7ZV5.png)
+
 ## Versión : 
 
 ### 0.0.2
